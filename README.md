@@ -43,7 +43,6 @@ A DevOps Enthusiast from India, Navigating the Cloud Landscape with Zeal and Con
 
 ## 💬 Let's Connect
 
-- 🌱 I’m currently learning Golang
 - 🤝 I’m looking to collaborate on DevOps, Cloud
 -  🤲 I’m looking for help with DevOps, Cloud,Open Source
 -   💬 Ask me about DevOps
